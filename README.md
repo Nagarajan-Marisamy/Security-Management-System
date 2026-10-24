@@ -1,4 +1,4 @@
-# Security Management System (Java)
+# Security Management System 
 
 A console-based Java project that manages accounts using role-based access control.
 
@@ -39,8 +39,4 @@ The program creates a `data` directory automatically:
 
 Do not commit real users' data or real audit logs to GitHub. The included `.gitignore` excludes them.
 
-## GitHub upload
-1. Create a new empty repository on GitHub.
-2. Keep this folder structure.
-3. Run the project locally first.
-4. Commit the source files and README. Do not commit generated `out/` files or `data/` files.
+
